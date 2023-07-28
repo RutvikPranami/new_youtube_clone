@@ -1,0 +1,49 @@
+.paper-container{
+box-shadow: none;
+margin-right: auto;
+margin-left: auto;
+border: 1px solid red;
+display: flex;
+width: 30%;
+height: 45px;
+justify-content: space-between;
+}
+
+.search-bar{
+    font-size: 20px;
+    font-weight: 300;
+    padding: 3px;
+}
+
+.searchIcon{
+    cursor: pointer;
+    background-color: gray;
+    color: red;
+    border-radius: 25px;
+    padding: 10.5px;
+    margin-right: 0px;
+    
+}
+@media (max-width: 650px) {
+    .paper-container {
+        margin-left: 10px;
+        height: 25px;
+    }
+
+    .search-bar{
+        width: 150px;
+        font-size: 15px;
+        font-weight: 200;
+        padding: 3px;
+    }
+
+    .searchIcon{
+        cursor: pointer;
+        background-color: gray;
+        color: red;
+        border-radius: 25px;
+        padding: 3px;   
+    }
+
+
+  }
