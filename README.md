@@ -2,7 +2,7 @@ This is Youtube clone using React-Redux and Metarial UI
 
 👇🔴Live🔴👇
 
-https://my-youtube-w0w9.onrender.com
+https://youtube-smoky-nu.vercel.app/
 
 Features:
 Similar to Youtube.
